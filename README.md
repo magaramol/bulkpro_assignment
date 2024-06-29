@@ -12,11 +12,6 @@ Based on our analysis, we suggest that the decline in overall orders in the Plat
 
 We recommend that the management team should closely monitor the impact of the COVID-19 pandemic on sales and orders. Additionally, they should consider expanding the product line further to attract more customers. The data analyst team should continue to monitor and analyze the key metrics to identify any future trends or changes in customer behavior.
 
-## Project Structure
-
-- **`/Data`**: Sample data files used for the project.
-- **`/Reports`**: Power BI report files (.pbix).
-- **`/Documentation`**: Additional documentation, including setup guides and usage instructions.
 
 ## Usage
 
