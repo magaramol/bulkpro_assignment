@@ -1,5 +1,68 @@
-
 # BulkPro - Power BI Dashboard
+
+## BulkPro Case Study
+
+BulkPro is an online selling enterprise specializing in procuring products in multiple categories from local customers and selling them to buyers in bulk through the website throughout India.
+
+### Datasets
+
+1. **Order Data**: Contains information about the orders placed for different products. The dataset includes features such as order id, product id, order units, and order date.
+2. **Product Data**: Contains information about the different products available in BulkPro. The dataset includes features such as product id, product category, product launch date, product source, and Google search keywords.
+
+### Problem Statement
+
+The objective is to determine the causes of the overall drop in platinum category orders. By analyzing the provided data, we aim to identify the elements influencing the decline in sales and make recommendations to boost sales.
+
+### Insights from the Analysis
+
+- The dataset contains information about the orders for four months from January 2022 to April 2022.
+- Without historical data, identifying long-term trends is not possible, but a decline in orders is evident as stated in the problem statement.
+- High demand for the product was observed in January and February.
+- There was a fall in orders in March and April.
+- A total of 75.73K orders were placed.
+- 62.24% of the total orders were from the platinum category.
+- 24.69% of the orders were from Silver, 7% from Bronze, and 6.08% from Gold, indicating the majority of sales are from the Platinum category.
+- Order sources: 
+  - 80 million units from Telemarketing
+  - 42 million units from Websites
+  - 22 million units from Google (organically)
+  - 4 million units from WhatsApp
+  - 3 million units from Android
+- Telemarketing is the most significant order source.
+- There are 14.93K products in total, but only 1967 products have been ordered.
+- Products added each month:
+  - January: 3541 products
+  - February: 3438 products
+  - March: 3859 products
+  - April: 4092 products
+- Products added in the platinum category each month:
+  - January: 2089 products
+  - February: 2053 products
+  - March: 2493 products
+  - April: 2657 products
+- There are a total of 9292 products in the platinum category.
+- 67.27K orders were made for platinum products, with a total of 152 million units purchased.
+- There was approximately a 50% decline in sales from February to March.
+- The telemarketing source shows the same trend as the sales.
+
+### Suggestions to Improve Sales
+
+- Investigate the reasons for the approximate 50% decline in telemarketing performance from February to March and take corrective measures to improve performance.
+- Enhance the digital marketing presence to increase sales through the website.
+- Implement recommendation systems to suggest new products to customers based on their previous choices.
+- Strengthen marketing efforts on social media platforms and use paid marketing campaigns to increase awareness about the website and its services.
+
+
+
+
+
+
+
+
+
+
+
+<!-- # BulkPro - Power BI Dashboard
 
 ## Problem Statement
 
@@ -11,7 +74,7 @@ On the other hand, the number of new products onboarded showed a gradual increas
 
 Based on our analysis, we suggest that the decline in overall orders in the Platinum category could be attributed to the COVID-19 pandemic. The management team can consider expanding the product line further, given that new products onboarded and sales of new products are showing positive growth. We have shared this report with the BulkPro management team to update them regarding key learnings.
 
-We recommend that the management team should closely monitor the impact of the COVID-19 pandemic on sales and orders. Additionally, they should consider expanding the product line further to attract more customers. The data analyst team should continue to monitor and analyze the key metrics to identify any future trends or changes in customer behavior.
+We recommend that the management team should closely monitor the impact of the COVID-19 pandemic on sales and orders. Additionally, they should consider expanding the product line further to attract more customers. The data analyst team should continue to monitor and analyze the key metrics to identify any future trends or changes in customer behavior. -->
 
 ## Insights and Visualizations
 
